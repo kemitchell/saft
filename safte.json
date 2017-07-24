@@ -1,0 +1,40 @@
+[
+  {
+    "header": "This agreement has been executed and delivered as a deed on the date appearing at the beginning of this deed.",
+    "term": "Company",
+    "entities": [
+      {}
+    ],
+    "information": [
+      "address",
+      "email"
+    ]
+  },
+  {
+    "samePage": true,
+    "term": "Witness",
+    "information": [
+      "occupation",
+      "address"
+    ]
+  },
+  {
+    "header": "This agreement has been executed and delivered as a deed on the date appearing at the beginning of this deed.",
+    "term": "Purchaser",
+    "entities": [
+      {}
+    ],
+    "information": [
+      "address",
+      "email"
+    ]
+  },
+  {
+    "samePage": true,
+    "term": "Witness",
+    "information": [
+      "occupation",
+      "address"
+    ]
+  }
+]
